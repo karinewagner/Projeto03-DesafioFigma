@@ -6,8 +6,12 @@ Aplicação de conhecimento com a linguagem de marcação HTML5 e com o mecanism
 
 Template no figma (https://www.figma.com/file/wyIuyt7V0gMclfHjM2PqgL/Explorer-(Copy)?node-id=0%3A1)
 
-<br/>
-<br/>
+## Tecnologias
+- HTML
+- CSS
+- Git e Github
+</br>
+
 
 Segue abaixo o print da tela finalizada e em anexo os códigos desenvolvidos.
 
